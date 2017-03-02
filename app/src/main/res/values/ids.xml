@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="address_slot" />
+    <item type="id" name="address_layout" />
+    <item type="id" name="address_to" />
+    <item type="id" name="pickup_icon" />
+</resources>
